@@ -49,6 +49,7 @@
     <Compile Include="BLL\KhoaBLL.cs" />
     <Compile Include="BLL\QLTKBLL.cs" />
     <Compile Include="BLL\sqltt.cs" />
+    <Compile Include="DTO\KhoaDTO.cs" />
     <Compile Include="DTO\lopDTO.cs" />
     <Compile Include="DTO\QLTKDTO.cs" />
     <Compile Include="Program.cs" />
