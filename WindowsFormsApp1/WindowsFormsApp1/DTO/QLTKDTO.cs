@@ -14,4 +14,5 @@ namespace WindowsFormsApp1.DTO
         public string TaiKhoan { get => _TaiKhoan; set => _TaiKhoan = value; }
         public string MatKhau { get => _MatKhau; set => _MatKhau = value; }
     }
+    //hello
 }
