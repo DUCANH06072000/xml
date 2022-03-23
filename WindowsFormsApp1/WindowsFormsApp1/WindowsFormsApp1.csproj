@@ -88,6 +88,7 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="QLTK.xml" />
+    <Content Include="Khoa.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
