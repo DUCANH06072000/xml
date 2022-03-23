@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QLTK>
+  <ListTK>
+    <Taikhoan>a</Taikhoan>
+    <Matkhau>a</Matkhau>
+  </ListTK>
+  <ListTK>
+    <Taikhoan>b</Taikhoan>
+    <Matkhau>b</Matkhau>
+  </ListTK>
+</QLTK>
