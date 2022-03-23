@@ -48,10 +48,16 @@
   <ItemGroup>
     <Compile Include="BLL\KhoaBLL.cs" />
     <Compile Include="BLL\QLTKBLL.cs" />
-    <Compile Include="BLL\sqltt.cs" />
+    <Compile Include="BLL\lopBLL.cs" />
     <Compile Include="DTO\KhoaDTO.cs" />
     <Compile Include="DTO\lopDTO.cs" />
     <Compile Include="DTO\QLTKDTO.cs" />
+    <Compile Include="Lop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lop.Designer.cs">
+      <DependentUpon>Lop.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QLTK.cs">
@@ -87,6 +93,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="lop.xml" />
     <Content Include="QLTK.xml" />
     <Content Include="Khoa.xml" />
   </ItemGroup>
